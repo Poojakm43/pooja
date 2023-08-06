@@ -10,9 +10,8 @@ String name;
 		this.name=name;
 	}
 
-	public void Root(String type) {
-		
-	}
+	public void Root(String type) {}
+	
 	public void Leaf(String status) {}
 	
 	public void Stem(String type) {}

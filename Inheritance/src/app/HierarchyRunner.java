@@ -27,7 +27,7 @@ public class HierarchyRunner {
 		Hierarchy hierarchy5=new FiveLevel();
 		hierarchy5.Fruit("mango");
 		Hierarchy hierarchy6=new SixLevel();
-		hierarchy6.Bud("Multi stem jiont");
+		hierarchy6.Bud("Multi stem joint");
 		Hierarchy hierarchy7=new SevenLevel();
 		hierarchy7.Seed("Germination of plant");
 		Hierarchy hierarchy8=new EightLevel();
