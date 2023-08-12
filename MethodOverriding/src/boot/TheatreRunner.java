@@ -1,9 +1,13 @@
 package boot;
 
+import app.PvrTheatre;
+import app.Theatre;
+
 public class TheatreRunner {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		Theatre theatre=new PvrTheatre();
+		theatre.film();
 
 	}
 
